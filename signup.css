@@ -1,0 +1,23 @@
+body{
+    background-image: url('https://www.wallpapertip.com/wmimgs/58-580609_login-background-images-for-android.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login{
+    background-color: black;
+    height: 600px;
+    width: 500px;
+    color: white;
+    font-family: sans-serif;
+    margin-left: 500px;
+    margin-top: 80px;
+    border-radius: 10px;
+}
+#form{
+    margin-left: 150px;
+    margin-top: 80px;
+    color:rgb(12, 199, 161);
+}
+input{
+    border-radius: 7px;
+}
